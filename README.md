@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects <br>👯 I’m looking to collaborate on new development and design challenges <br>🤝 I’m looking for help with improving my front end skills<br>🌱 I’m currently learning React and UI design techniques<br>💬 Ask me about automatization with Microsoft tools.<br>
+🔭 I’m currently working on personal projects <br>👯 I’m looking to collaborate on new development and design challenges <br>🤝 I’m looking for help with improving my Design and Swift development skills<br>🌱 I’m currently learning React and UI Design Techniques<br><br>🌱 I’m currently doing a SwiftUI certificate<br>💬 Ask me about automatization with Microsoft tools.<br>
 
 
 ## 🌐 Socials:
