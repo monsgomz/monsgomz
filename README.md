@@ -2,7 +2,7 @@
 🔭 I’m currently working on personal projects <br>👯 I’m looking to collaborate on new development and design challenges <br>🤝 I’m looking for help with improving my Design and Swift development skills<br>🌱 I’m currently learning Mobile Development and UI Design Techniques<br><br>🌱 I’m currently doing a SwiftUI certificate<br>💬 Ask me about automatization with Microsoft tools.<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_justmonz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/montserrat-gomez-334b1614a/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.ca/monzgomz/) 
 
 # 💻 Tech Stack:
