@@ -14,9 +14,9 @@
 🌟 Join me in my coding adventures as I embark on this exciting path in the world of mobile development. Let's build amazing things together! 🚀<br>
 
 
-👯 I’m looking to collaborate on new Swift development and UI design challenges <br>✨ I’m currently doing a SwiftUI certificate and studying by myself🍃<br>
+👯 I’m looking to collaborate on new Swift development and UI design challenges <br>
 
-🍃 Now I'm studying an iOS certification and learning by myself ...
+✨ I’m currently doing a SwiftUI certificate and studying by myself🍃<br>
 
 
 ## Social 
