@@ -2,6 +2,13 @@
 <h4 align="center">A passionate developer learning mobile applications</h4>
 
 # 💫 About Me:
+
+- **Name:*** M Montserrat Gomez
+- **Current Location:** Canada
+- **Home country:** Mexico
+
+  
+
 🔭 👋 Hello, I'm Montserrat from Mexico! 🇲🇽<br>
 <br>👩‍💻 I hold a Bachelor's degree in Computer Systems Engineering and have a passion for technology and software development.
 
@@ -43,6 +50,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=monsgomz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Projects
 
 
 
