@@ -2,7 +2,21 @@
 <h4 align="center">A passionate developer learning mobile applications</h4>
 
 # 💫 About Me:
-🔭 I'm Montserrat from Mexico. I'm an Enginier in Computer Systems with experience in backend and business application development, now I'm into Mobile development <br>👯 I’m looking to collaborate on new Swift development and UI design challenges <br>✨ I’m currently doing a SwiftUI certificate and studying by myself🍃<br>
+🔭 👋 Hello, I'm Montserrat from Mexico! 🇲🇽<br>
+<br>👩‍💻 I hold a Bachelor's degree in Computer Systems Engineering and have a passion for technology and software development.
+
+💼 I've had the privilege to work in two exciting roles, where I honed my skills in backend development and business applications. I thrive on solving complex problems and creating solutions that make a difference.
+
+📚 Currently, I'm on a journey of continuous learning. I'm pursuing a diploma in Mobile Design and Development, and I'm eager to explore the world of mobile app development.
+
+📱 My goal is to contribute to the ever-evolving field of mobile development, creating apps that are not just functional but also user-friendly and beautifully designed.
+
+🌟 Join me in my coding adventures as I embark on this exciting path in the world of mobile development. Let's build amazing things together! 🚀<br>
+
+
+👯 I’m looking to collaborate on new Swift development and UI design challenges <br>✨ I’m currently doing a SwiftUI certificate and studying by myself🍃<br>
+
+🍃 Now I'm studying an iOS certification and learning by myself ...
 
 
 ## Social 
