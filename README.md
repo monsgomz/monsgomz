@@ -2,7 +2,7 @@
 <h4 align="center">A passionate developer learning mobile applications</h4>
 
 # 💫 About Me:
-🔭 I’m currently working on personal projects <br>👯 I’m looking to collaborate on new Swift development and UI design challenges <br>🌱 I’m a Mobile Development and UI Design student<br> <br>✨ I’m currently doing a SwiftUI certificate and studying by myself🍃<br>
+🔭 I'm Montserrat from Mexico. I'm an Enginier in Computer Systems with experience in backend and business application development, now I'm into Mobile development <br>👯 I’m looking to collaborate on new Swift development and UI design challenges <br>✨ I’m currently doing a SwiftUI certificate and studying by myself🍃<br>
 
 
 ## Social 
