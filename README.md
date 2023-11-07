@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-- **Name:*** M Montserrat Gomez
+- **Name:** M Montserrat Gomez
 - **Current Location:** Canada
 - **Home country:** Mexico
 
