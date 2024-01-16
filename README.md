@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 - **Name:** M Montserrat Gomez
-- **Current Location:** Canada
+- **Current Location:** Canada 🇨🇦
 - **Home country:** Mexico
 
   
