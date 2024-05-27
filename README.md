@@ -1,34 +1,33 @@
 <h1 align="center">Hi 👋, I'm Monse</h1>
-<h4 align="center">A passionate developer learning mobile applications</h4>
+<h4 align="center">A passionate mobile developer</h4>
 
 # 💫 About Me:
 
 - **Name:** M Montserrat Gomez
-- **Current Location:** Canada 🇨🇦
 - **Home country:** Mexico
+- **Hobby:** Painting
 
   
 
-🔭 👋 Hello, I'm Montserrat from Mexico! 🇲🇽<br>
+🔭 👋 Hello, I'm Montserrat! 🇲🇽<br>
 <br>👩‍💻 I hold a Bachelor's degree in Computer Systems Engineering and have a passion for technology and software development.
 
 💼 I've had the privilege to work in two exciting roles, where I honed my skills in backend development and business applications. I thrive on solving complex problems and creating solutions that make a difference.
 
-📚 Currently, I'm on a journey of continuous learning. I'm pursuing a diploma in Mobile Design and Development, and I'm eager to explore the world of mobile app development.
+📚 Currently, I finished my diploma in Mobile Application Design and Development in Canada and now I'm on a journey of continuous learning and been prepare for the next challenge.
 
 📱 My goal is to contribute to the ever-evolving field of mobile development, creating apps that are not just functional but also user-friendly and beautifully designed.
 
 🌟 Join me in my coding adventures as I embark on this exciting path in the world of mobile development. Let's build amazing things together! 🚀<br>
 
-
 👯 I’m looking to collaborate on new Swift development and UI design challenges <br>
 
-✨ I’m currently doing a SwiftUI certificate and studying by myself🍃<br>
+✨ I also have a blog in medium 🍃<br>
 
 
 ## Social 
 <a href="https://www.dribbble.com/Monzgomz" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730799/ease-prof/social/dribbble-icon_cue26p.svg" height="40" width="40" alt=dribbble/>
-<a href="http://www.instagram.com/_ustmonz" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730747/ease-prof/social/instagram-icon_awmjo1.svg" height="40" width="40" alt=instagram/>
+<a href="http://www.instagram.com/_justmonz" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730747/ease-prof/social/instagram-icon_awmjo1.svg" height="40" width="40" alt=instagram/>
 <a href="https://www.linkedin.com/in/montserrat-gomez-334b1614a" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
 <a href="http://www.medium.com/Monzegomz" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676621629/ease-prof/social/medium-icon-svgrepo-com_wwdm1p.svg" height="40" width="40" alt=medium/>
 
