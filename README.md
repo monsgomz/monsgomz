@@ -10,7 +10,7 @@
   
 
 🔭 👋 Hello, I'm Montserrat! 🇲🇽<br>
-<br>👩‍💻 I hold a Bachelor's degree in Computer Systems Engineering and have a passion for technology and software development.
+<br>👩‍💻 I hold a Bachelor's degree in Computer Systems Engineering and a Mobile Design and Development diploma 
 
 💼 I've had the privilege to work in two exciting roles, where I honed my skills in backend development and business applications. I thrive on solving complex problems and creating solutions that make a difference.
 
